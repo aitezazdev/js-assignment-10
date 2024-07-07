@@ -40,12 +40,12 @@
 // }
 // console.log(array);
 
-
-
 // for (var j = array.length - 1; j >= 0; j--) {
 //   reverse.push(array[j]);
 // }
 // console.log(reverse);
+
+
 
 // 10. Average of an array
 // var arr = [];
